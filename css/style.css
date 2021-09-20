@@ -2845,6 +2845,7 @@ body.dark .waxon_tm_settings .cursor li .svg,
     .waxon_tm_hero .background .rightpart {
         padding-left: 0px;
     }
+	
     .waxon_tm_hero .content_inner h3 {
         font-size: 90px;
     }
@@ -3062,6 +3063,9 @@ body.dark .waxon_tm_settings .cursor li .svg,
     .waxon_tm_hero .content_inner h3 {
         font-size: 50px;
     }
+	.waxon_tm_mobile_menu .logo img {
+    max-width: 141px;
+}
 	.waxon_tm_topbar .topbar_inner .logo img {
     max-width: 220px;
 }
