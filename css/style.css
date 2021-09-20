@@ -285,7 +285,11 @@ h6 {
     overflow: hidden;
     display: inline-block;
 }
-
+@media screen and (max-width:768px){
+	.waxon_tm_topbar .topbar_inner .logo img {
+    max-width: 220px;
+}
+}
 .waxon_tm_topbar .menu .links ul li a .first {
     position: absolute;
     transform: translateY(100%);
